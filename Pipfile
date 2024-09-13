@@ -16,6 +16,7 @@ textblob = "*"
 spacy = "*"
 wordcloud = "*"
 gunicorn = "*"
+langdetect = "*"
 
 [dev-packages]
 
